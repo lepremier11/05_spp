@@ -1,5 +1,5 @@
 ---
-title: "Randomization"
+title: "Split-plot randomization"
 format: html
 author: "Charles Appolon"
 ---
